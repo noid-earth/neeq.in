@@ -1,4 +1,4 @@
-!(Neeq.in)[/branding/Banner.png]
+![Neeq.in](/branding/Banner.png)
 
 # neeq
 
